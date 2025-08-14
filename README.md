@@ -56,4 +56,4 @@ A small, self-created SQLite database file: **`sales_data.db`**
 
 
 ## ✍ Author
-Rutikesh Pawar 
+**Rutikesh Pawar** 
